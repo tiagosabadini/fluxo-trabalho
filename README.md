@@ -1,4 +1,7 @@
 #### Implantação do GitFlow
+O objetivo aqui é organizar os commits em branchs padrões, gerando menos conflitos na base. Otimizar as tarefas entre a equipe e descentralizar os testes de releases.
+O modelo que mais se aproxima da forma atual de trabalho é o GitFlow. Em detalhes abaixo:
+
 
 ![ ](https://github.com/tiagosabadini/fluxo-trabalho/blob/master/docs/git-flow-image.png)
 
