@@ -13,4 +13,7 @@ O modelo que mais se aproxima da forma atual de trabalho é o GitFlow. Em detalh
 - **Feature**: Branches criadas a partir da develop para novas funcionalidades do sistema. Possuem o prefixo **feature/**. Exemplo: **feature/novo-layout**. Após testes, estas branches são enviadas à develop para, posteriormente serem incluídas na master.
 
 ## Referências
+https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
 http://nvie.com/posts/a-successful-git-branching-model/
+https://github.com/petervanderdoes/gitflow-avh
+https://imasters.com.br/gerencia-de-ti/fluxo-de-desenvolvimento-com-gitflow/?trace=1519021197
