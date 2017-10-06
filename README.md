@@ -11,3 +11,6 @@ O modelo que mais se aproxima da forma atual de trabalho é o GitFlow. Em detalh
 - **Release**: (não implementada);
 - **Develop**: Todas as outras Branches serão enviadas para a develop para serem testadas juntas. Após esta etapa, é realizada a junção à branch master;
 - **Feature**: Branches criadas a partir da develop para novas funcionalidades do sistema. Possuem o prefixo **feature/**. Exemplo: **feature/novo-layout**. Após testes, estas branches são enviadas à develop para, posteriormente serem incluídas na master.
+
+## Referências
+http://nvie.com/posts/a-successful-git-branching-model/
